@@ -1,4 +1,4 @@
-# microservice-ecom-docker-compose
+# Damodar's Application - Microservice E-commerce - Docker Compose Deployment
 
 A 5-service e-commerce demo app deployed using Docker Compose, with Nginx as a reverse proxy.
 
